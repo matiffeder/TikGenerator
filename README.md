@@ -1,4 +1,6 @@
 
+This project was made for CIA Downloader.
+
 Put encTitleKeys.bin in the same directory of TikGenerator.exe.<br />
 Find title ID of the game for cetk which you want to generate.<br />
 
